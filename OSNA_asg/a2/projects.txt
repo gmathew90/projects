@@ -1,0 +1,14 @@
+Projects
+
+1)Analyzing tweets of a day and understanding information like
+	1)classifying the tweets into different moods and then analyzing the most dominant mood of the world
+	2)Most popular event of the day 
+	3)Most popular location
+	4)Most popular person
+2)Movie meter
+	1)Device an algorithm to find the rating of a movie out of 10 considering factors like
+	a)no of tweets b)no of good tweets c)no of bad tweets d)location e)credibility of the user
+3)Viral tweets a prediction
+	1)devicing a point system to a viral message
+	2)Analyzing the evolution of a message into a viral message
+	3)predicting how viral a message will become in the initial stages
