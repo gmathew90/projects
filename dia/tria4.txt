@@ -1,0 +1,4 @@
+"/>
+      </dia:attribute>
+      <dia:attribute name="elem_height">
+        <dia:real val="

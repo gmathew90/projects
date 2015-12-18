@@ -1,0 +1,12 @@
+ <dia:object type="Flowchart - Extract" version="1" id="O0">
+      <dia:attribute name="obj_pos">
+        <dia:point val="3.1,1.75"/>
+      </dia:attribute>
+      <dia:attribute name="obj_bb">
+        <dia:rectangle val="2.95996,1.44194;9.04004,10.3"/>
+      </dia:attribute>
+      <dia:attribute name="meta">
+        <dia:composite type="dict"/>
+      </dia:attribute>
+      <dia:attribute name="elem_corner">
+        <dia:point val="

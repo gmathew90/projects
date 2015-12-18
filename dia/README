@@ -1,0 +1,16 @@
+Project Name:  	CONVERTING A HAND DRAWN DIAGRAM TO A DIA DIAGRAM
+
+Brief Abstract: The project aims at converting a rough hand drawn diagram to a neat diagram.
+
+Authors: 	George Mathew, Archana Nair, Leah Abraham Nalonnil
+
+
+Requirements:	Language used       : C++, XML language
+                Compiler 	    : GNU C++ compiler
+                Application Program : Open CV and dia
+              
+
+Links:		http://opencv.willowgarage.com/wiki/InstallGuide
+                http://gcc.gnu.org/install/. 
+
+How to execute:	g++ -o <output filename> large.cpp -lcv -lhighgui
