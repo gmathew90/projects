@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+.nav{
+	text-align:center;
+	 background-color:#fb6648;
+	 color:white
+	
+}
+
+.clock
+{
+	
+	background-color:#ebe7e0;
+	height:900px;
+}
+
+#sec1{
+	background-image:url(../img/sec_30.jpg);
+	height:300px;
+	width:300px;
+	
+}
+
+#sec1 h3{
+	font-size:50px;
+	padding-left:125px;
+	padding-top:125px;
+}
+
+#min1{
+	background-image:url(../img/sec_30.jpg);
+	height:300px;
+	width:300px;
+	
+}
+
+#min1 h3{
+	font-size:50px;
+	padding-left:125px;
+	padding-top:125px;
+}
+
+#hr1{
+	background-image:url(../img/sec_30.jpg);
+	height:300px;
+	width:300px;
+	
+}
+
+#hr1 h3{
+	font-size:50px;
+	padding-left:125px;
+	padding-top:125px;
+}

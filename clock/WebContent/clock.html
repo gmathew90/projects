@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+ <meta http-equiv="refresh" content="1" />
+<title>clock</title>
+<script type="text/javascript" src="js/time.js"></script>
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/time.css" rel="stylesheet">
+
+</head>
+
+<body>
+<div class="nav">
+	<h3>Digital Clock<h3>
+</div>
+<div class="clock">
+	<div class="row">
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-9">
+			<div class="col-md-3">
+				<div id="hr1">
+				<h3><script>document.write( time_h());</script></h3>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div id="min1">
+				<h3><script>document.write( time_m());</script></h3>
+				</div>
+			</div>
+			<div class="col-md-3">
+				<div  id="sec1">
+					<h3><script>document.write( time_s());</script></h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
